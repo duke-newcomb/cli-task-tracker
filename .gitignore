@@ -1,0 +1,7 @@
+# Gitignore
+
+# Intellij
+.idea/
+
+# Java build
+target/
